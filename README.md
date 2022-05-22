@@ -23,6 +23,7 @@
 * [Jet Brains](https://www.jetbrains.com/help/idea/create-your-first-kotlin-app.html) : IntelliJ Kotlin Tutorial
 * [Kotlin.org](https://kotlinlang.org/docs/basic-syntax.html#functions) : Kotlin basics
 * [Kotlin Standard Library](https://kotlinlang.org/api/latest/jvm/stdlib/)
+* [developer.android.com](https://developer.android.com/codelabs/basic-android-kotlin-training-lists#2)
 
 # Future Work
 
