@@ -40,18 +40,10 @@ fun menuInteractions() {
         } else {
             // With a valid input selection
             when (selection) {
-                "A" -> {
-                    lineItems.newLine()
-                }
-                "D" -> {
-                    lineItems.deleteLine()
-                }
-                "E" -> {
-                    lineItems.editLine()
-                }
-                "L" -> {
-                    lineItems.display()
-                }
+                "A" -> lineItems.newLine()
+                "D" -> lineItems.deleteLine()
+                "E" -> lineItems.editLine()
+                "L" -> lineItems.display()
                 "C" -> calculations()
                 "Q" -> {
                     println("Thank you for using Debt Tracker!")

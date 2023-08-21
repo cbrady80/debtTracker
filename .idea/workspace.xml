@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46d20dc1-2031-4373-982f-380083b317b5" name="Changes" comment="Finished program.">
+    <list default="true" id="46d20dc1-2031-4373-982f-380083b317b5" name="Changes" comment="Updated README file.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/debt_tracker/LineItems.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/debt_tracker/LineItems.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/debt_tracker/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/debt_tracker/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +44,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="debt_tracker.MainKt" />
@@ -98,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653195593515</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated README file.">
+      <created>1653198514069</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653198514069</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +128,11 @@
     <MESSAGE value="Added in README file, classes, and stub functions." />
     <MESSAGE value="Got main file and menu working. Added stub functions to other classes." />
     <MESSAGE value="Finished program." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished program." />
+    <MESSAGE value="Updated README file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated README file." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

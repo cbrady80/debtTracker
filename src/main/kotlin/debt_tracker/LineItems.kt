@@ -2,7 +2,7 @@ package debt_tracker
 
 import java.util.Scanner
 
-class LineItems() {
+class LineItems {
 
     // Create the map to store input values
     val debtMap = mutableMapOf<String, String>()
@@ -77,7 +77,6 @@ class LineItems() {
         }
 
         println("\n")
-
     }
 
 
